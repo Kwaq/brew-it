@@ -1,0 +1,12 @@
+liquibase:
+  change-log:  classpath:db/changelog/db.changelog-master.xml
+
+spring:
+  datasource:
+    url: jdbc:h2:~/brewit
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: sa
+  jackson:
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
