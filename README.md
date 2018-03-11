@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Kwaq/brew-it.svg?branch=master)](https://travis-ci.org/Kwaq/brew-it)
 # brew-it
 Prepare beer recepies
 
